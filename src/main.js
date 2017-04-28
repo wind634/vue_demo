@@ -9,6 +9,7 @@ import axios from 'axios'
 import VueForm from 'vue-form';
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-default/index.css'
+//import './assets/theme/element-#ff694c/index.css'
 import 'font-awesome/css/font-awesome.min.css'
 
 // install globally
