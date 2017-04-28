@@ -1,5 +1,5 @@
 {
-  "name": "sale_portal",
+  "name": "vue_demo",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "wind634 <2911184332@qq.com>",
@@ -97,5 +97,18 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wind634/vue_demo.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wind634/vue_demo/issues"
+  },
+  "homepage": "https://github.com/wind634/vue_demo#readme"
 }
