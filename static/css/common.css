@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+}
+.wrapper {
+  min-height: 90%;
+  height: auto !important;
+  height: 90%;
+  margin: 0 auto -4em;
+}
+.footer{
+  height: 30px;
+  margin-top: 50px;
+}
+
+.t-a-c{text-align: center;}
+.site-header{height: 100px;line-height: 100px;}
+.login-form{width:500px;margin:0px auto;margin-top: 50px;}
+.error{color:red;}
+.error span{height: 35px;line-height: 35px;}
